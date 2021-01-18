@@ -1,2 +1,15 @@
-# umi3issue6022
-关于umi3 issue 6022的一个复现
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
